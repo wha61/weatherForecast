@@ -1,7 +1,7 @@
 # vue3-weather
 
-## 基于OpenWeather Free Api
+## Based on OpenWeather Free Api
 https://home.openweathermap.org/
 
-## 功能
+## Function
 Retrieve weather information based on location or city name
