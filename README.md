@@ -1,4 +1,4 @@
-# vue3-weather
+# weatherForecast
 
 ## Based on OpenWeather Free Api
 https://home.openweathermap.org/
