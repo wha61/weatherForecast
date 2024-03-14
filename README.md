@@ -5,3 +5,5 @@ https://home.openweathermap.org/
 
 ## Function
 Retrieve weather information based on location or city name
+
+Adapt from crazybox521
